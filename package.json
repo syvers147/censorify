@@ -8,10 +8,12 @@
         "type": "git",
         "url": "https://github.com/syvers147/censorify"
     }
+    ,
     "keywords":[
         "censor",
         "words"
     ]
+    ,
     "dependencies": {},
     "engines": {
         "node": "*"
